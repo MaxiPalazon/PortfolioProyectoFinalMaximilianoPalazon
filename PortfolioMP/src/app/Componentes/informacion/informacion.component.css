@@ -1,16 +1,15 @@
 img{
     width: 170px;
+    float: center;
 }
 
 #lista {
-    width: 88%;
     font-size: 30px;
     margin-top: 10px
 
 }
 
 #foto{
-    width: 12%;
     float: right;
     margin-top: 5px;
     margin-bottom: 5px;
@@ -19,7 +18,7 @@ img{
 
 div{
     background-color: blueviolet;
-    width: 101%;
+    margin-right: 0px;
     }
 
 .Rotulo{
